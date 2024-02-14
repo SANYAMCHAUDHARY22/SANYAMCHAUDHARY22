@@ -45,5 +45,3 @@
 
 
 
-
-![Snake animation](https://github.com/SANYAMCHAUDHARY22/SANYAMCHAUDHARY22/blob/output/github-contribution-grid-snake.svg)
