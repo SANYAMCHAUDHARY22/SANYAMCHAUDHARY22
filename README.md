@@ -11,7 +11,7 @@
 
 - 🌱My experties in **• Data Structure and Algorithms • Computer Networks • Database Management System • Object Oriented Programming • Operating System • Data Mining • Image Processing • Discrete Maths Languages: Python, C/C++, HTML, CSS, SQL Frameworks/Libraries: TensorFlow, PyTorch , scikit-learn , Keras, OpenCV, NLTK, Pandas, NumPy , Matplotlib, Seaborn Tools/Platforms: Git, Github, AWS, Docker, Kubernets, Tableau**
 
-- 👨‍💻 All of my projects are available at [https://sanyamchaudhary.netlify.app/](https://sanyamchaudhary.netlify.app/)
+
 
 - 💬 Ask me about **Artificial Intelligence and Machine Learning, Oil and Gas Informatics**
 
