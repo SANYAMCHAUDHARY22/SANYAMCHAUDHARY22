@@ -1,5 +1,5 @@
 
-
+<!--
 <h1 align="center">Hi🧑🏻‍💻, I'm Sanyam Chaudhary</h1>
 <h3 align="center">I am an enthusiast who loves learning about new technologies in the domains of Artificial Intelligence, Machine Learning, Data Science and Cloud Computing. I am actively seeking opportunities to work in the tech industry and further explore and enhance my skills.</h3>
 
@@ -21,7 +21,7 @@
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
+<!--<h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sanyamchaudhary22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sanyamchaudhary22" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sanyam-chaudhary-234b77243" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sanyam-chaudhary-234b77243" height="30" width="40" /></a>
@@ -42,6 +42,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanyamchaudhary22&" alt="sanyamchaudhary22" /></p>
 
-
+-->
 
 
